@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MovieStream/static/css/main.53e13bda.css",
-    "main.js": "/MovieStream/static/js/main.cd8bc6bf.js",
+    "main.css": "/MovieStream/static/css/main.90055a86.css",
+    "main.js": "/MovieStream/static/js/main.2aa31e36.js",
     "static/js/787.d22f23b3.chunk.js": "/MovieStream/static/js/787.d22f23b3.chunk.js",
     "static/media/logo.png": "/MovieStream/static/media/logo.cfc7c39edfa1529eaffb.png",
     "index.html": "/MovieStream/index.html",
-    "main.53e13bda.css.map": "/MovieStream/static/css/main.53e13bda.css.map",
-    "main.cd8bc6bf.js.map": "/MovieStream/static/js/main.cd8bc6bf.js.map",
+    "main.90055a86.css.map": "/MovieStream/static/css/main.90055a86.css.map",
+    "main.2aa31e36.js.map": "/MovieStream/static/js/main.2aa31e36.js.map",
     "787.d22f23b3.chunk.js.map": "/MovieStream/static/js/787.d22f23b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.53e13bda.css",
-    "static/js/main.cd8bc6bf.js"
+    "static/css/main.90055a86.css",
+    "static/js/main.2aa31e36.js"
   ]
 }
