@@ -10,9 +10,9 @@ const Footer = () => {
           <p>Contact Us</p>
           <p>About Us</p>
           <p>Career</p>
-          <p>Flipkart Stories</p>
+          <p>MovieStream Stories</p>
           <p>Press</p>
-          <p>Flipkast wholsale</p>
+          <p>MovieStream wholsale</p>
         </div>
         <div class="footeritem">
           <h5>Help</h5>
@@ -41,10 +41,10 @@ const Footer = () => {
         <div class="footeritem">
           <h5>Address</h5>
           <p class="address">
-            Flipkart Internet Private Limited, Buildings Alyssa, Begonia & Clove
-            Embassy Tech Village, Outer Ring Road, Devarabeesanahalli Village,
-            Bengaluru, 560103, Karnataka, India CIN : U51109KA2012PTC066107
-            Telephone: 044-45614700
+            MovieStream Internet Private Limited, Buildings Alyssa, Begonia &
+            Clove Embassy Tech Village, Outer Ring Road, Devarabeesanahalli
+            Village, Bengaluru, 560103, Karnataka, India CID :
+            U51109KA2012PTC066107 Telephone: 044-4875565433
           </p>
         </div>
       </div>
